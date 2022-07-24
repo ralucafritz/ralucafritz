@@ -1,7 +1,7 @@
 Hi, I'm Ralu👋
 
 ### :small_orange_diamond: Bachelor's Degree Student 
-- ##### 🏛 <b> University of Bucharest - Computer Science</b> 
+- 🏛 <b> University of Bucharest - Computer Science</b> 
   - <i><b>october 2020 - expected june 2023</b></i>
 
 ### :small_orange_diamond: Experience
