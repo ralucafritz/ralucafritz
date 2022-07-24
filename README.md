@@ -1,8 +1,13 @@
 Hi, I'm Ralu👋
 
-### :small_orange_diamond: Bachelor's Degree Student 
-- 🏛 <b> University of Bucharest - Computer Science</b> 
-  - <i><b>october 2020 - expected june 2023</b></i>
+### :small_orange_diamond: Education
+- 🏛 <b> University of Bucharest </b>
+  - <b> Computer Science </b> 
+    - <i><b>october 2020 - expected june 2023</b></i>
+- 🏛 <b> University of Agronomic Sciences and Veterinary Medicine of Bucharest </b>
+  - <b> Veterinary Medicine </b> 
+    - <i><b>october 2016 - discontinued december 2019</b></i>
+    - <i><b>DISCONTINUED - CARRER PATH CHANGE</b></i>
 
 ### :small_orange_diamond: Experience
 - <b>:small_blue_diamond: Java Software Developer Intern </b>
@@ -31,7 +36,7 @@ Hi, I'm Ralu👋
 
 ### 🏆 GitHub Trophies ✨
 
-![](https://github-profile-trophy.vercel.app/?username=ralucafritz&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ralucafritz&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🌐 Social Media ✨
 [![Instagram](https://img.shields.io/twitter/url?label=instagram&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fralu.ria%2F)](https://www.instagram.com/ralu.ria/)   [![Facebook](https://img.shields.io/twitter/url?color=blue&label=facebook&logo=facebook&logoColor=blue&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fmihaellaralu/)](https://www.facebook.com/mihaellaralu/)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ralucafritz/) 
