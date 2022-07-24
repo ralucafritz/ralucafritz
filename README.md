@@ -7,11 +7,22 @@ Hi, I'm Ralu👋
 - #### :small_orange_diamond: Java Software Developer Intern 
   - 🏭 <b>IBM Romania<b> <sub><i><b>(september 2022 - november 2022)</b></i></sub>
 
+
+### University Materials
+![FLP](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=Uni-Class-FLP-Year-2)
+![LFA](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=Uni-Class-LFA-CS112-Year-1)
+![FLP](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=Uni-Labs-ASP.NET-Year-2)
+![FLP](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=Uni-Labs-Computer-Networking-Year-2)
+
+
 ### 📊 Github Stats ✨
 
-![](https://github-readme-stats.vercel.app/api?username=ralucafritz&theme=highcontrast&show_icons=true&count_private=true)   
-![](https://github-readme-streak-stats.herokuapp.com/?user=ralucafritz&theme=radical&hide_border=false)   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ralucafritz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralucafritz&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ralucafritz&theme=midnight-purple&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralucafritz&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 🏆 GitHub Trophies ✨
 
