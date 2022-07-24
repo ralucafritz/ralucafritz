@@ -5,7 +5,7 @@ Hi, I'm Ralu👋
   - <i><b>october 2020 - expected june 2023</b></i>
 
 ### :small_orange_diamond: Experience
-- #### :small_blue_diamond: Java Software Developer Intern 
+- <b>:small_blue_diamond: Java Software Developer Intern </b>
   - 🏭 <b>IBM Romania<b>
     - <i><b>september 2022 - november 2022</b></i>
 
