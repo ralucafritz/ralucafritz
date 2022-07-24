@@ -4,7 +4,7 @@ Hi, I'm Ralu👋
 - ##### 🏛 <b> University of Bucharest - Computer Science</b> 
   - <sub><i><b>(october 2020 - expected june 2023)</b></i></sub>
 
-### :small_orange_diamond: Past Experience
+### :small_orange_diamond: Experience
 - #### :small_blue_diamond: Java Software Developer Intern 
   - 🏭 <b>IBM Romania<b>
     -  <sub><i><b>(september 2022 - november 2022)</b></i></sub>
