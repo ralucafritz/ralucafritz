@@ -16,13 +16,13 @@ Hi, I'm Ralu👋
 
 
 ### University Materials
+![Game Runner 3D](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=Game-Dev-3DRunner)
+  
 ![FLP](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=Uni-Class-FLP-Year-2) 
 
 ![LFA](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=Uni-Class-LFA-CS112-Year-1)  
 
 ![ASP.NET](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=Uni-Labs-ASP.NET-Year-2)  
-
-![Computer Networking](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=Uni-Labs-Computer-Networking-Year-2)
 
 
 ### 📊 Github Stats ✨
