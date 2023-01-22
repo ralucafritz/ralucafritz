@@ -12,7 +12,7 @@ Hi, I'm Ralu👋
 ### :small_orange_diamond: Experience
 - <b>:small_blue_diamond: Java Software Developer Intern </b>
   - 🏭 <b>IBM Romania<b>
-    - <i><b>september 2022 - november 2022</b></i>
+    - <i><b>september 2022 - january 2023</b></i>
 
 
 ### University Materials
