@@ -16,7 +16,7 @@ Hi, I'm Ralu👋
 
 
 ### University Materials
-![Game Runner 3D](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=Game-Dev-3DRunner)
+![Game Runner 3D](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=Uni-Class-Game-Dev-Project-Year-3)
   
 ![FLP](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=Uni-Class-FLP-Year-2) 
 
