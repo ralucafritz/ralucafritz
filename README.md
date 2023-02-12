@@ -16,10 +16,10 @@ Hi, I'm Ralu👋
 
 
 ### University Projects
-[![Game Runner 3D](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=Uni-Class-Game-Dev-Project-Year-3)](https://github.com/ralucafritz/Uni-Class-Game-Dev-Project-Year-3)
-  
 [![FE](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=FE-Project-Angular-Year-3)](https://github.com/ralucafritz/FE-Project-Angular-Year-3)
 
+[![Game Runner 3D](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=Uni-Class-Game-Dev-Project-Year-3)](https://github.com/ralucafritz/Uni-Class-Game-Dev-Project-Year-3)
+  
 [![SDM](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=CardGame-Team-Project-Software-Development-Methods-Year-2)](https://github.com/ralucafritz/CardGame-Team-Project-Software-Development-Methods-Year-2)
 
 [![AOOP](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=Gradebook-AOOP-Project-Year-2)](https://github.com/ralucafritz/Gradebook-AOOP-Project-Year-2)
