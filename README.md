@@ -15,14 +15,14 @@ Hi, I'm Ralu👋
     - <i><b>september 2022 - january 2023</b></i>
 
 
-### University Materials
+### University Projects
 ![Game Runner 3D](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=Uni-Class-Game-Dev-Project-Year-3)
   
-![FLP](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=Uni-Class-FLP-Year-2) 
+![FE](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=FE-Project-Angular-Year-3)
 
-![LFA](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=Uni-Class-LFA-CS112-Year-1)  
+![SDM](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=CardGame-Team-Project-Software-Development-Methods-Year-2)  
 
-![ASP.NET](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=Uni-Labs-ASP.NET-Year-2)  
+[![AOOP](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=Gradebook-AOOP-Project-Year-2)](https://github.com/ralucafritz/Gradebook-AOOP-Project-Year-2)
 
 
 ### 📊 Github Stats ✨
