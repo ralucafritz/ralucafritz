@@ -9,11 +9,13 @@ Hi, I'm Ralu👋
     - <i><b>october 2016 - discontinued december 2019</b></i>
     - <i><b>DISCONTINUED - CARRER PATH CHANGE</b></i>
 
-### :small_orange_diamond: Experience
+### :small_orange_diamond: Work Experience
 - <b>:small_blue_diamond: Java Software Developer Intern </b>
   - 🏭 <b>IBM Romania<b>
-    - <i><b>september 2022 - january 2023</b></i>
-
+    - <i><b>september 2022 - february 2023</b></i>
+- <b>:small_blue_diamond: Junior Java Software Developer </b>
+  - 🏭 <b>IBM Romania<b>
+    - <i><b>march 2023 - present</b></i>
 
 ### University Projects
 [![FE](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=FE-Project-Angular-Year-3)](https://github.com/ralucafritz/FE-Project-Angular-Year-3)
