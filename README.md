@@ -3,7 +3,8 @@ Hi, I'm Ralu👋
 ### :small_orange_diamond: Education
 - 🏛 <b> University of Bucharest </b>
   - <b> Computer Science </b> 
-    - <i><b>october 2020 - expected june 2023</b></i>
+    - <i><b>october 2020 - may 2023</b></i>
+    - <i><b>GRADUATED</b></i>
 - 🏛 <b> University of Agronomic Sciences and Veterinary Medicine of Bucharest </b>
   - <b> Veterinary Medicine </b> 
     - <i><b>october 2016 - discontinued december 2019</b></i>
