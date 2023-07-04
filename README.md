@@ -11,22 +11,30 @@ Hi, I'm Ralu👋
     - <i><b>DISCONTINUED - CARRER PATH CHANGE</b></i>
 
 ### :small_orange_diamond: Work Experience
-- <b>:small_blue_diamond: Java Software Developer Intern </b>
+- <b>:small_blue_diamond: Mobile Android Internship Workshops </b>
   - 🏭 <b>IBM Romania<b>
-    - <i><b>september 2022 - february 2023</b></i>
+    - <i><b>july 2023 - present</b></i>
 - <b>:small_blue_diamond: Junior Java Software Developer </b>
   - 🏭 <b>IBM Romania<b>
     - <i><b>march 2023 - present</b></i>
+- <b>:small_blue_diamond: Java Software Developer Intern </b>
+  - 🏭 <b>IBM Romania<b>
+    - <i><b>september 2022 - february 2023</b></i>
 
+    
 ### University Projects
-[![FE](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=FE-Project-Angular-Year-3)](https://github.com/ralucafritz/FE-Project-Angular-Year-3)
 
-[![Game Runner 3D](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=Uni-Class-Game-Dev-Project-Year-3)](https://github.com/ralucafritz/Uni-Class-Game-Dev-Project-Year-3)
-  
-[![SDM](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=CardGame-Team-Project-Software-Development-Methods-Year-2)](https://github.com/ralucafritz/CardGame-Team-Project-Software-Development-Methods-Year-2)
+[![Bachelor's Degree Project - PillWatch - Android App](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=PillWatch)](https://github.com/ralucafritz/PillWatch)
 
-[![AOOP](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=Gradebook-AOOP-Project-Year-2)](https://github.com/ralucafritz/Gradebook-AOOP-Project-Year-2)
+[![Server for the Bachelor's Degree Project - PillWatch - NodeJS Express](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=PillWatch-NodeJSServer)](https://github.com/ralucafritz/PillWatch-NodeJSServer)
 
+[![FrontEnd Project - Angular - 3rdYear](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=FE-Project-Angular-Year-3)](https://github.com/ralucafritz/FE-Project-Angular-Year-3)
+
+[![Solaris - Solar Simulation App - 3rd Year](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=Solaris-Unity-Year-3)](https://github.com/ralucafritz/Solaris-Unity-Year-3)
+
+[![UpTask - To Do App - 3rd Year](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=UpTask-Year-3)](https://github.com/ralucafritz/UpTask-Year-3)
+
+[![Game Runner 3D - 3rd Year](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=midnight-purple&repo=Uni-Class-Game-Dev-Project-Year-3)](https://github.com/ralucafritz/Uni-Class-Game-Dev-Project-Year-3)
 
 ### 📊 Github Stats ✨
 
