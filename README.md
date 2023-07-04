@@ -24,17 +24,11 @@ Hi, I'm Ralu👋
     
 ### University Projects
 
-[![Bachelor's Degree Project - PillWatch - Android App](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=material-palenight&repo=PillWatch)](https://github.com/ralucafritz/PillWatch)
+[![Bachelor's Degree Project - PillWatch - Android App](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=material-palenight&repo=PillWatch)](https://github.com/ralucafritz/PillWatch)   [![Server for the Bachelor's Degree Project - PillWatch - NodeJS Express](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=material-palenight&repo=PillWatch-NodeJSServer)](https://github.com/ralucafritz/PillWatch-NodeJSServer)
 
-[![Server for the Bachelor's Degree Project - PillWatch - NodeJS Express](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=material-palenight&repo=PillWatch-NodeJSServer)](https://github.com/ralucafritz/PillWatch-NodeJSServer)
+[![FrontEnd Project - Angular - 3rdYear](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=material-palenight&repo=FE-Project-Angular-Year-3)](https://github.com/ralucafritz/FE-Project-Angular-Year-3)   [![Solaris - Solar Simulation App - 3rd Year](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=material-palenight&repo=Solaris-Unity-Year-3)](https://github.com/ralucafritz/Solaris-Unity-Year-3)
 
-[![FrontEnd Project - Angular - 3rdYear](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=material-palenight&repo=FE-Project-Angular-Year-3)](https://github.com/ralucafritz/FE-Project-Angular-Year-3)
-
-[![Solaris - Solar Simulation App - 3rd Year](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=material-palenight&repo=Solaris-Unity-Year-3)](https://github.com/ralucafritz/Solaris-Unity-Year-3)
-
-[![UpTask - To Do App - 3rd Year](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=material-palenight&repo=UpTask-Year-3)](https://github.com/ralucafritz/UpTask-Year-3)
-
-[![Game Runner 3D - 3rd Year](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=material-palenight&repo=Uni-Class-Game-Dev-Project-Year-3)](https://github.com/ralucafritz/Uni-Class-Game-Dev-Project-Year-3)
+[![UpTask - To Do App - 3rd Year](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=material-palenight&repo=UpTask-Year-3)](https://github.com/ralucafritz/UpTask-Year-3)   [![Game Runner 3D - 3rd Year](https://github-readme-stats.vercel.app/api/pin/?username=ralucafritz&theme=material-palenight&repo=Uni-Class-Game-Dev-Project-Year-3)](https://github.com/ralucafritz/Uni-Class-Game-Dev-Project-Year-3)
 
 ### 📊 Github Stats ✨
 
