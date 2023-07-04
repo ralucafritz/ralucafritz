@@ -1,15 +1,5 @@
 Hi, I'm Ralu👋
 
-### :small_orange_diamond: Education
-- 🏛 <b> University of Bucharest </b>
-  - <b> Computer Science </b> 
-    - <i><b>october 2020 - may 2023</b></i>
-    - <i><b>GRADUATED</b></i>
-- 🏛 <b> University of Agronomic Sciences and Veterinary Medicine of Bucharest </b>
-  - <b> Veterinary Medicine </b> 
-    - <i><b>october 2016 - discontinued december 2019</b></i>
-    - <i><b>DISCONTINUED - CARRER PATH CHANGE</b></i>
-
 ### :small_orange_diamond: Work Experience
 - <b>:small_blue_diamond: Mobile Android Internship Workshops </b>
   - 🏭 <b>IBM Romania<b>
@@ -21,6 +11,16 @@ Hi, I'm Ralu👋
   - 🏭 <b>IBM Romania<b>
     - <i><b>september 2022 - february 2023</b></i>
 
+### :small_orange_diamond: Education
+- 🏛 <b> University of Bucharest </b>
+  - <b> Computer Science </b> 
+    - <i><b>october 2020 - june 2023</b></i>
+    - <i><b>GRADUATED</b></i>
+    - <i> Bachelor's Degree Final Project: Android app [Pillwatch](https://github.com/ralucafritz/PillWatch) graded with 9.50 out of 10.
+- 🏛 <b> University of Agronomic Sciences and Veterinary Medicine of Bucharest </b>
+  - <b> Veterinary Medicine </b> 
+    - <i><b>october 2016 - discontinued december 2019</b></i>
+    - <i><b>DISCONTINUED - CARRER PATH CHANGE</b></i>
     
 ### University Projects
 
