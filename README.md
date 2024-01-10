@@ -1,14 +1,12 @@
 Hi, I'm Ralu👋
 
 ### :small_orange_diamond: Work Experience
-- <b>:small_blue_diamond: Junior Java Software Developer </b>
-  - 🏭 <b>IBM Romania<b>
+- 🏭 <b>IBM Romania<b>
+  - <b>:small_blue_diamond: Junior Java Software Developer </b>
     - <i><b>March 2023 - Present</b></i>
-- <b>:small_blue_diamond: Mobile Android Internship Workshops </b>
-  - 🏭 <b>IBM Romania<b>
+  - <b>:small_blue_diamond: Mobile Android Internship Workshops </b>
     - <i><b>July 2023 - September 2023</b></i>
-- <b>:small_blue_diamond: Java Software Developer Intern </b>
-  - 🏭 <b>IBM Romania<b>
+  - <b>:small_blue_diamond: Java Software Developer Intern </b>
     - <i><b>September 2022 - February 2023</b></i>
 
 ### :small_orange_diamond: Education
