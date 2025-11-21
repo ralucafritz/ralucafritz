@@ -1,10 +1,10 @@
 Hi, I'm Ralu👋
 
 ### :small_orange_diamond: Work Experience
-- 🏭 <b>Google<b>
+- 🏢 <b>Google<b>
     - <b>:small_blue_diamond: Software Engineer</b>
         - <i><b>October 2025 - Present</b></i>
-- 🏭 <b>IBM Romania<b>
+- 🏢 <b>IBM Romania<b>
     - <b>:small_blue_diamond: Application Developer</b>
         - <i><b>February 2023 - October 2025</b></i>
     - <b>:small_blue_diamond: Mobile Android Internship</b>
